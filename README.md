@@ -1,4 +1,4 @@
-# Pipeline de Predicción de Demanda Eléctrica (PJM) ⚡
+# ⚡ Pipeline de Predicción de Demanda Eléctrica (PJM) 
 
 Este proyecto implementa una solución completa de ingeniería de datos y modelado predictivo para la **predicción de la demanda eléctrica horaria** utilizando el histórico del sistema **PJM Interconnection** (dataset *PJME*). El flujo de trabajo cubre desde el procesamiento distribuido a gran escala con **PySpark** y almacenamiento optimizado en **Apache Parquet**, hasta el entrenamiento de modelos de Machine Learning y Deep Learning (**Random Forest** y redes **LSTM**).
 
